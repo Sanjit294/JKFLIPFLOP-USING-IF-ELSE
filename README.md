@@ -58,6 +58,7 @@ the timing diagram.
 
 
 **RESULTS**
+
 Thus, the JK Flip-Flop is designed, and its functionality is validated using the truth table
-and timing diagrams
+and timing diagrams.
 
